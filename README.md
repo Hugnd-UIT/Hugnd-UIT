@@ -4,10 +4,11 @@
 
 <br />
 
-![UIT](https://img.shields.io/badge/UIT--VNU--HCM-Information%20Security%202024-0a7ea4?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Multi--Agent%20LLM%20x%20Offensive%20Security-39d353?style=for-the-badge)
-![Kernel](https://img.shields.io/badge/Low--level-eBPF%20%2F%20XDP%20%7C%20Disk%20Forensics-a3e635?style=for-the-badge)
-
+<img src="https://img.shields.io/badge/UIT-University%20of%20Information%20Technology-0a7ea4?style=for-the-badge" alt="UIT" />
+<img src="https://img.shields.io/badge/AI%20Security-16a34a?style=for-the-badge" alt="AI Security" />
+<img src="https://img.shields.io/badge/Bug%20Hunter-dc2626?style=for-the-badge" alt="Bug Hunter" />
+<img src="https://img.shields.io/badge/Vuln%20Research-ea580c?style=for-the-badge" alt="Vuln Research" />
+<img src="https://img.shields.io/badge/Academic%20Research-7c3aed?style=for-the-badge" alt="Academic Research" />
 </div>
 
 ---
