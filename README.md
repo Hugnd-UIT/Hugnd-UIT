@@ -33,25 +33,9 @@ I love building autonomous systems powered by agents and multi-agent LLMs to ser
 
 ---
 
-## Vulnerability research
-
-Independently discovered and verified, each with a working proof of vulnerability confirmed under ASan.
-
-| Library | Version | Findings | Highlights |
-| --- | --- | --- | --- |
-| **cJSON** | v1.7.16 | 6 zero-days | `overwrite_item` ignores `cJSON_IsReference` on root replace, leading to heap use-after-free and double-free (**CVSS 9.8 Critical**). `sort_list` breaks the `head->prev` tail invariant, causing silent data loss and a heap UAF write (**CVSS 8.2 High**). Also NULL dereferences in `cJSONUtils_strdup` and `pointer_encoded_length` (**CVSS 7.5 High**), plus infinite loop or double-free in `add_item_to_array` and a cross-tree aliasing UAF in `cJSON_ReplaceItemViaPointer`. |
-| **libxls** | v1.6.4 (`34c7cc6`) | 3 bugs in BIFF8 parsing | Heap buffer overflow write of 255 bytes in `xls_getCSS` via unchecked `strcat` (**CVSS 8.8 High**, CWE-122). Global out-of-bounds read in `xls_getColor` (**5.3 Medium**). Heap buffer overflow read in `xls_parseWorkSheet` (**3.1 Low**). All reproducible with a C PoC and a crafted `.xls`. |
-| **libucl** | <= 0.10.0 (`c3580720`) | 3 heap use-after-free | `ucl_hash_destroy` reads freed memory after `ucl_object_merge(copy=false)` because two `ucl_hash_t` tables share an intrusive linked-list pointer (**CVSS 7.5 High**, CWE-416). Affects projects that embed libucl, such as FreeBSD pkg and Rspamd. |
-
----
-
 ## Contact
 
 - GitHub: [@Hugnd-UIT](https://github.com/Hugnd-UIT)
 - Email: [hungnd.attt2024@gmail.com](mailto:hungnd.attt2024@gmail.com)
-
-<div align="center">
-
-`> whoami` &nbsp;->&nbsp; **Agentic security dev**
 
 </div>
