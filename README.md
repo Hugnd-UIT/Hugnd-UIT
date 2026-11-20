@@ -21,7 +21,7 @@ I love building autonomous systems powered by agents and multi-agent LLMs to ser
 
 ---
 
-## Personal project
+## Project
 
 | Project | Stack | What it does |
 | --- | --- | --- |
@@ -30,10 +30,6 @@ I love building autonomous systems powered by agents and multi-agent LLMs to ser
 | [**Kang-Tao**](https://github.com/Hugnd-UIT/Kang-Tao) | Python | Automated CTF challenge solver powered by LLMs |
 | [**Budget-Arms**](https://github.com/Hugnd-UIT/Budget-Arms) | Python | Hybrid ML and LLM agent framework for DDoS defense |
 | [**Trauma-Team**](https://github.com/Hugnd-UIT/Trauma-Team) | Python | LLM-driven Windows disk recovery for NTFS and FAT12/16/32 |
-
----
-
-## Academic project
 
 ---
 
