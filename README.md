@@ -23,7 +23,7 @@ I love building autonomous systems powered by agents and multi-agent LLMs to ser
 
 ## Project
 
-| Project | Stack | What it does |
+| Project | Language | What it does |
 | --- | --- | --- |
 | [**Militech**](https://github.com/Hugnd-UIT/Militech) | Python | Multi-agent system that hunts and exploits vulnerabilities across entire repositories |
 | [**Arasaka**](https://github.com/Hugnd-UIT/Arasaka) | Python | Autonomous multi-agent fuzzing framework for C/C++ repositories |
