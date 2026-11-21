@@ -4,11 +4,11 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/UIT-University%20of%20Information%20Technology-4ade80?style=flat" alt="UIT" />
-<img src="https://img.shields.io/badge/Focus-AI%20Security-4ade80?style=flat" alt="AI Security" />
-<img src="https://img.shields.io/badge/Role-Bug%20Hunter-4ade80?style=flat" alt="Bug Hunter" />
-<img src="https://img.shields.io/badge/Field-Vuln%20Research-4ade80?style=flat" alt="Vulnerability Research" />
-<img src="https://img.shields.io/badge/Field-Academic%20Research-4ade80?style=flat" alt="Academic Research" />
+<img src="https://img.shields.io/badge/UIT-University%20of%20Information%20Technology-10b981?style=flat" alt="UIT" />
+<img src="https://img.shields.io/badge/Focus-AI%20Security-10b981?style=flat" alt="AI Security" />
+<img src="https://img.shields.io/badge/Role-Bug%20Hunter-10b981?style=flat" alt="Bug Hunter" />
+<img src="https://img.shields.io/badge/Field-Vuln%20Research-10b981?style=flat" alt="Vulnerability Research" />
+<img src="https://img.shields.io/badge/Field-Academic%20Research-10b981?style=flat" alt="Academic Research" />
 </div>
 
 ---
